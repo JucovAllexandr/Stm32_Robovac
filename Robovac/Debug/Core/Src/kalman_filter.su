@@ -1,0 +1,2 @@
+kalman_filter.c:10:6:kalman_filter_init	24	static
+kalman_filter.c:20:8:kalman_filter_calc	40	static

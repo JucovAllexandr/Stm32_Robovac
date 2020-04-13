@@ -1,0 +1,6 @@
+wheel_control.c:12:6:pid_task	56	static
+wheel_control.c:38:6:wheel_init	112	static
+wheel_control.c:72:6:turn_clockwise	16	static
+wheel_control.c:78:6:turn_counter_clockwise	16	static
+wheel_control.c:84:6:wheel_control_task	32	static
+wheel_control.c:144:6:wheel_encoder_task	24	static
